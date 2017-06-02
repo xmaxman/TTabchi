@@ -232,7 +232,7 @@ function create_config( )
 	"plugins",
     "tabchi"
     },
-    sudo_users = {12345678},--Sudo users
+    sudo_users = {315017219},--Sudo users
   }
   serialize_to_file(config, './data/config.lua')
   print('saved config into ./data/config.lua')
